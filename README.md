@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelhadi
 
-💻 Full-stack developer passionate about building modern web applications
+💻 Frontend and Backend developer passionate about building modern web applications
 🚀 Focused on clean architecture, performance, and scalable systems
 
 ---
