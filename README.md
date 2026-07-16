@@ -8,7 +8,7 @@
 
 </div>
 <div align="center">
-  <img src="./assets/gifs/It%20Crowd%20Programming%20GIF.gif" width="100%" alt="Header Banner" />
+  <img src="./assets/gifs/It%20Crowd%20Programming%20GIF.gif" width="40%" alt="Header Banner" />
 </div>
 
 ## 🚀 About Me
